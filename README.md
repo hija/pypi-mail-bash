@@ -1,5 +1,5 @@
 # PyPi Mail Bash 📧
-Effortlessly Track PyPi Package Updates and Receive Email Notifications automatically.
+Effortlessly Track PyPi Package Updates and Receive Email Notifications automatically by using GitHub actions.
 
 ---
 
