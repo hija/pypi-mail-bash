@@ -10,8 +10,8 @@ PyPi Mail Bash allows you to monitor the versions of specified PyPi packages and
 
 ## 🛠️ Setup Guide
 
-### 1. Fork the Repository
-Start by forking this repository.
+### 1. Use this Repository as Template
+Create your own repository by clicking [here](https://github.com/new?template_name=pypi-mail-bash&template_owner=hija). 
 
 ### 2. Configure Tracked Packages
 Open `versions.json` and specify the packages you want to track along with their current versions:
